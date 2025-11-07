@@ -17,7 +17,3 @@ This repository contains the code and analysis for the NYC Trip Fare project. Th
 This project is open source and available under the [MIT License](LICENSE).
 
 
-# NYC Trip Fare Analysis Project
-# Mandatory Libraries
-import pandas as pd
-import numpy as np
